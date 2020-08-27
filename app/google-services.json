@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "750499990423",
+    "firebase_url": "https://jus-talk-c497a.firebaseio.com",
+    "project_id": "jus-talk-c497a",
+    "storage_bucket": "jus-talk-c497a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:750499990423:android:19e0367622fca2992b12d2",
+        "android_client_info": {
+          "package_name": "com.example.jus_talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "750499990423-78s54clcv6rh4ia69o2qjijeeaca98pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jus_talk",
+            "certificate_hash": "5087a79029d9821dd3a6945ef605dfbc8959d4ba"
+          }
+        },
+        {
+          "client_id": "750499990423-p4576qq4c21ju0t6ctdsnjpu3a83t9me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnw0giW_Are3sVa4B4SaJe7-yDY5b_EqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "750499990423-p4576qq4c21ju0t6ctdsnjpu3a83t9me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
